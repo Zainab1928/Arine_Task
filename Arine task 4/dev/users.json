@@ -1,0 +1,292 @@
+{
+  "comment-section": {
+    "user1": {"username": "pharmacist-automation16@mailinator.com", "password": "ArinePass3!"},
+    "user2": {"username": "pharmacist-automation11@mailinator.com", "password": "ArinePass3!"},
+    "user3": {"username": "pharmacist-automation18@mailinator.com", "password": "ArinePass3!"},
+    "user4": {"username": "dev-automation12@mailinator.com", "password": "Password1#"},
+    "user5": {"username": "pharmacist-automation12@mailinator.com", "password": "ArinePass3!"}
+  },
+  "lab-table-in-quality-tab": {
+    "user1": {"username": "hardstop-pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user3": {"username": "hardstop-pharmacist6@mailinator.com", "password": "Password1#"}
+  },
+  "login": {
+    "user1": {"username": "pharmacist-automation11@mailinator.com", "password": "ArinePass3!"}
+  },
+  "make-quality-tab-report-verification": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "muti-select-groups-square-checkboxs-verification": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "patient-comments": {
+    "user1": {"username": "pharmacist-automation13@mailinator.com", "password": "ArinePass3!"}
+  },
+  "population-dashboard": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "test-admin@mailinator.com", "password": "Password1#"},
+    "user3": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "quality-tab": {
+    "user1": {"username": "pharmacist-automation12@mailinator.com", "password": "ArinePass3!"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "quality-tab-measures-col-status": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "hardstop-pharmacist8@mailinator.com", "password": "Password1#"},
+    "user3": {"username": "hardstop-pharmacist-dev2@mailinator.com", "password": "Password1#"},
+    "user4": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "report-logo-verification": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "report-text-verification": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "hardstop-pharmacist6@mailinator.com", "password": "Password1#"},
+    "user3": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "report-verification": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-automation12@mailinator.com", "password": "ArinePass3!"}
+  },
+  "rerun-analysis-button": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "support-user-report": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "test-support0@mailinator.com", "password": "Password1#"}
+  },
+  "user-permissions": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-automation13@mailinator.com", "password": "ArinePass3!"}
+  },
+  "care-team": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "complete-cmr-with-all-mandatory-fields": {
+    "user1": {"username": "hardstop-pharmacist5@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "log-action-function": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-automation16@mailinator.com", "password": "ArinePass3!"}
+  },
+  "personal-notes": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "dev-automation12@mailinator.com", "password": "Password1#"}
+  },
+  "practitioner": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "profile-action-plan-tab-exclamation-point": {
+    "user1": {"username": "pharmacist-automation13@mailinator.com", "password": "ArinePass3!"}
+  },
+  "prospect-patient-report-tab": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "report-tab-drp-character-limits": {
+    "user1": {"username": "hardstop-pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "responsive-log-action": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"}
+  },
+  "search-drp": {
+    "user1": {"username": "test-support0@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "update-smart-questions-tab": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "workflow-log-action": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "care-team-tab-state-dropdown": {
+    "user1": {"username": "dev-automation17@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "patient-date-of-birth": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-automation13@mailinator.com", "password": "ArinePass3!"}
+  },
+  "patient-demographic-section": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "test-admin@mailinator.com", "password": "Password1#"}
+  },
+  "patient-details": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-automation16@mailinator.com", "password": "ArinePass3!"},
+    "user3": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "patient-report-tab": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-automation16@mailinator.com", "password": "ArinePass3!"}
+  },
+  "patient-search": {
+    "user1": {"username": "pharmacist-automation13@mailinator.com", "password": "ArinePass3!"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "practitioners-tab-sent-recs-table": {
+    "user1": {"username": "dev-automation12@mailinator.com", "password": "Password1#"}
+  },
+  "practitioners-tab-timeline-table": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "report-tab-report-creation-date-column": {
+    "user1": {"username": "dev-automation12@mailinator.com", "password": "Password1#"}
+  },
+  "sig-translations": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "a-smart-questions": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-automation16@mailinator.com", "password": "ArinePass3!"},
+    "user3": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "bulk-task-edit": {
+    "user1": {"username": "dev-automation17@mailinator.com", "password": "Password1#"}
+  },
+  "filters-in-global-task-tab": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "global-task-tab": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-automation11@mailinator.com", "password": "ArinePass3!"}
+  },
+  "global-task-tab-assigned-to-section": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "patient-task-story-log": {
+    "user1": {"username": "dev-automation12@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "report-tab-drp-table": {
+    "user1": {"username": "hardstop-pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "report-verification-pcp-cl-and-pcp-mrp": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "search-drug-in-med-list-and-profile-action-plan": {
+    "user1": {"username": "dev-automation12@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "task-filter": {
+    "user1": {"username": "dev-automation12@mailinator.com", "password": "Password1#"}
+  },
+  "hard-stop-bsc-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist11@mailinator.com", "password": "Password1#"}
+  },
+  "hard-stop-crmc-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist10@mailinator.com", "password": "Password1#"}
+  },
+  "hard-stop-dohc-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist@mailinator.com", "password": "Password1#"}
+  },
+  "hard-stop-magellan-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist5@mailinator.com", "password": "Password1#"}
+  },
+  "hard-stop-ppok-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist9@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "", "password": "ArinePass3!"}
+  },
+  "hard-stop-scan-external-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist8@mailinator.com", "password": "Password1#"}
+  },
+  "hard-stop-scan-internal-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist7@mailinator.com", "password": "Password1#"}
+  },
+  "hard-stop-select-concierge-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist6@mailinator.com", "password": "Password1#"}
+  },
+  "hard-stop-select-org-scenarios": {
+    "user1": {"username": "hardstop-pharmacist6@mailinator.com", "password": "Password1#"}
+  },
+  "campaign-tab-prescriber-analytics": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "patient-schedule-appointment": {
+    "user1": {"username": "dev-automation11@mailinator.com", "password": "Password1#"}
+  },
+  "practitioner-tab-reports-analytics": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "practitioner-tab-reports-campaign": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "admin-account-mtm-org": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"}
+  },
+  "admin-json-compare": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"}
+  },
+  "admin-org-admin-will-see-alphabetized-orgs": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"}
+  },
+  "admin-org-compare-commits": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"}
+  },
+  "admin-org-config-import-from-json": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"}
+  },
+  "admin-org-edit-config": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"}
+  },
+  "admin-org-edit-lock-config": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"},
+    "user2": {"username":"test-admin@mailinator.com","password": "Password1#"}
+  },
+  "admin-organization-show-history-column": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"}
+  },
+  "admin-organization-tab": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"},
+    "user2": {"username":"dev-automation11@mailinator.com","password": "Password1#"},
+    "user3": {"username":"dev-automation12@mailinator.com","password": "Password1#"},
+    "user4": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"}
+  },
+  "admin-pdf-templates-tab": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"}
+  },
+  "admin-portal-create-organization": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"}
+  },
+  "admin-portal-create-user": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"}
+  },
+  "admin-portal-login": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"},
+    "user2": {"username":"abhilash@benchmarkit.solutions","password": "Arine@123"}
+  },
+  "admin-portal-org-view": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"}
+  },
+  "admin-portal-user-search": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"}
+  },
+  "admin_bulk_users_create": {
+    "user1": {"username":"dev-automation17@mailinator.com","password": "Password1#"}
+  },
+  "mtm-task": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"},
+    "user2": {"username": "test-support0@mailinator.com", "password": "Password1#"}
+  },
+  "report-text-and-logo-verification": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "humana-report-verification": {
+    "user1": {"username": "pharmacist-dev@mailinator.com", "password": "Password1#"}
+  },
+  "lab-table-in-labs-tab": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"}
+  },
+  "admin-org-edit-config-for-pharmacist-portal-tabs": {
+    "user1": {"username":"pharmacist-dev@mailinator.com","password": "Password1#"},
+    "user2": {"username":"test-support0@mailinator.com","password": "Password1#"}
+  }
+}
